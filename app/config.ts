@@ -1,3 +1,3 @@
 
-export const BACKEND_URL = "http://localhost:3000"
-export const HOOKS_URL = "http://localhost:3002"
+export const BACKEND_URL = "https://integrator-backend-rfyd.onrender.com"
+export const HOOKS_URL = "https://integrator-hooks.onrender.com"
